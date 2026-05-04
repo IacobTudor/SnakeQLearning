@@ -1,0 +1,7 @@
+cmake-build-*/
+.idea/
+.vscode/
+*.exe
+*.out
+*.log
+vcpkg/
